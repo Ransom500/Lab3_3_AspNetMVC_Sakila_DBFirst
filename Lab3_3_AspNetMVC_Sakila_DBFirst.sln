@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_3_AspNetMVC_Sakila_DBFirst", "Lab3_3_AspNetMVC_Sakila_DBFirst.csproj", "{8B5FFFED-9AF7-432A-AB1A-C741A2462EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5FFFED-9AF7-432A-AB1A-C741A2462EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5FFFED-9AF7-432A-AB1A-C741A2462EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5FFFED-9AF7-432A-AB1A-C741A2462EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5FFFED-9AF7-432A-AB1A-C741A2462EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565A28DB-838D-4E8E-A449-022C138EF103}
+	EndGlobalSection
+EndGlobal
